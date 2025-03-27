@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """
+PT-BR
 Shell Simples em Python 
 Nome: Eduarda Portel
 RA: 23.00292-0
